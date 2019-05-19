@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 0
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "216585056772-rlmdpel2ve0ad5ep8o7fs51mikb2vh64.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxDYOq6YMd0DDwvUC1PQtQ4munO9HxZvc"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:216585056772:ios:f5c351182f7b8879", 
+        "android_client_info": {
+          "package_name": "com.Uninorte.Plus"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "pfsumas-9ffd6.appspot.com", 
+    "project_id": "pfsumas-9ffd6", 
+    "firebase_url": "https://pfsumas-9ffd6.firebaseio.com", 
+    "project_number": "216585056772"
+  }
+}

@@ -1,0 +1,1 @@
+{"LO":[],"grado":1,"sesion":0,"tipoEscuela":0,"tiempos":[],"correcto":[],"dificultad":[],"titubeo":[],"JsonIntensities":"{}","binLO0":[[1,0]],"binLO1":[[1,0]],"binLO2":[[1,0]],"binLO3":[[1,0]],"binLO4":[[1,0]],"binPer":[[1,0],[1,0],[1,0],[1,0],[1,0]],"mulLO0":[],"mulLO1":[],"mulLO2":[],"mulLO3":[],"mulLO4":[],"mulPer":[[],[],[],[],[]],"Intensities":{}}

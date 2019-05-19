@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "968335140333-lrqf7077fm2n7p23ad32obqst0fb22lg.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxGdZMXylvx1JBGTxAMfP-g-CXUVy7fxI"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:968335140333:ios:b04c7ffae00fdcb7", 
+        "android_client_info": {
+          "package_name": "com.uninorte.mateop"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "mateop-a3f96.appspot.com", 
+    "project_id": "mateop-a3f96", 
+    "firebase_url": "https://mateop-a3f96.firebaseio.com", 
+    "project_number": "968335140333"
+  }
+}
